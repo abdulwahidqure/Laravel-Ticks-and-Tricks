@@ -1,0 +1,3 @@
+To Rollback and Re-migrate a specific migration
+
+php artisan:refresh --path=/database/migrations/filename.php
